@@ -6,6 +6,7 @@ void fatorial(int n, int *resultado) {
     }
 }
 
+
 int main() {
     int num = 5;      
     int fat;        
